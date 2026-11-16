@@ -1,4 +1,28 @@
-<h1 align="center">Work Demos</h1>
+<h1 align="center">Projects</h1>
+
+<table>
+<tr>
+<td width="75%">
+<h3>PigulkaBio: Sales and Profitability Analysis</h3>
+<p>PigulkaBio is a fictional pharmaceutical company selling diagnostics, immunobiologics, injectables and other products to distributors in domestic and export markets. The case study uses a synthetic dataset based on real transactions for 2019–2021, including sales, returns and discount adjustments.</p>
+<p>The analysis explains why revenue recovered to a period high in 2021 while gross profit stayed below the 2019 level and margin declined every year, breaking the change down by product mix, customer concentration, pricing exceptions and markets.</p>
+<a href="https://github.com/N3vrM1nd7/PigulkaBio-Sales-Analysis/blob/main/README.md">
+<img src="https://img.shields.io/badge/Excel-Read%20case%20study-F28C28?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</a>
+<a href="https://github.com/N3vrM1nd7/PigulkaBio-Sales-Analysis/blob/main/data/dataset_github.xlsx">
+<img src="https://img.shields.io/badge/Dataset-Download%20xlsx-F28C28?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</a>
+</td>
+<td width="25%">
+<a href="https://github.com/N3vrM1nd7/PigulkaBio-Sales-Analysis/blob/main/README.md">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="logo/icon_dark.png" />
+<img src="logo/icon_light.png" width="100%" alt="PigulkaBio Sales Analysis" />
+</picture>
+</a>
+</td>
+</tr>
+</table>
 
 <table>
   <tr>
