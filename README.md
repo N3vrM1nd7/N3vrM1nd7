@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="25%">
-      <a href="ССЫЛКА_НА_TABLEAU_PUBLIC">
+      <a href="https://public.tableau.com/app/profile/bohdan.sharyi/viz/Olist_Delivery_Operations/OlistDeliveryOperations">
         <img src="assets/olist_cover.png" width="100%" alt="Olist Delivery Operations" />
       </a>
     </td>
