@@ -4,7 +4,7 @@
   <tr>
     <td width="25%">
       <a href="https://public.tableau.com/app/profile/bohdan.sharyi/viz/Olist_Delivery_Operations/OlistDeliveryOperations">
-        <img src="assets/Project_3_logo.png" width="100%" alt="Olist Delivery Operations" />
+        <img src="logo/Project_3_logo.png" width="100%" alt="Olist Delivery Operations" />
       </a>
     </td>
     <td width="75%">
