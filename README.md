@@ -1,3 +1,6 @@
+<p align="center">
+<img src="logo/Backprof.png" width="100%" alt="Analyst Vision banner" />
+</p>
 <h1 align="center">Projects</h1>
 
 <table>
