@@ -3,6 +3,14 @@
 </p>
 <h1 align="center">Projects</h1>
 
+<h2 align="center">Hi, I'm Bohdan.</h2>
+
+<p align="center">I love analytics. Data is not only part of business but of everyday life too, and when used correctly, it can answer a surprising number of questions. That's one of the reasons I'm building a career as a data analyst.</p>
+
+<p align="center">My main tools are SQL, Python, Excel, Power BI and Tableau.</p>
+
+<p align="center">Based in Ukraine, open to remote opportunities. Always open to a conversation, a meeting or a game of chess.</p>
+
 <table>
 <tr>
 <td width="75%">
