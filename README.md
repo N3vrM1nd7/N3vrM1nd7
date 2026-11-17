@@ -1,7 +1,6 @@
 <p align="center">
 <img src="logo/Backprof.png" width="100%" alt="Analyst Vision banner" />
 </p>
-<h1 align="center">Projects</h1>
 
 <h2 align="center">Hi, I'm Bohdan.</h2>
 
@@ -10,6 +9,8 @@
 <p align="center">My main tools are SQL, Python, Excel, Power BI and Tableau.</p>
 
 <p align="center">Based in Ukraine, open to remote opportunities. Always open to a conversation, a meeting or a game of chess.</p>
+
+<h1 align="center">Projects</h1>
 
 <table>
 <tr>
